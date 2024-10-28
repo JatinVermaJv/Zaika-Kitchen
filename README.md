@@ -57,7 +57,4 @@ Explore Zaika live: [Zaika-Kitchen Live](https://zaika-kitchen.netlify.app/)
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
 
-## Contribution
-Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
-- [Utkarsh Singh](mailto:hauntedutkarsh@gmail.com)
 
